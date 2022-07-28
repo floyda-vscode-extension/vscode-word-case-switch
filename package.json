@@ -2,6 +2,7 @@
     "name": "word-case-switch",
     "displayName": "Word Case Switch",
     "description": "",
+    "publisher": "floydawong",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.69.0"
